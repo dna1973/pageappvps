@@ -1,6 +1,6 @@
 # pageappvps
 
-Uma landing page moderna desenvolvida para promover ferramentas e serviços de VPS da Hostinger.
+Uma landing page moderna e responsiva projetada para promover ferramentas e serviços de VPS da Hostinger.
 
 ## 🚀 Demo
 
